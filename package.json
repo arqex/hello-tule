@@ -1,0 +1,7 @@
+{
+	"name": "Hello Tule",
+	"description": "A lot of awesomeness!",
+	"version": "0.0",
+	"main": "helloTule.js",
+	"author": "Javi Marquez <javi@arqex.com>"
+}
